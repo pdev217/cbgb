@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.1169ccf5.chunk.css",
-    "main.js": "/static/js/main.c7513381.chunk.js",
-    "main.js.map": "/static/js/main.c7513381.chunk.js.map",
+    "main.css": "/static/css/main.a7179811.chunk.css",
+    "main.js": "/static/js/main.fb29512e.chunk.js",
+    "main.js.map": "/static/js/main.fb29512e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8fbef9e5.js",
     "runtime-main.js.map": "/static/js/runtime-main.8fbef9e5.js.map",
     "static/css/2.ff7e2e96.chunk.css": "/static/css/2.ff7e2e96.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.ce0593a7.chunk.js.map": "/static/js/3.ce0593a7.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.ff7e2e96.chunk.css.map": "/static/css/2.ff7e2e96.chunk.css.map",
-    "static/css/main.1169ccf5.chunk.css.map": "/static/css/main.1169ccf5.chunk.css.map",
+    "static/css/main.a7179811.chunk.css.map": "/static/css/main.a7179811.chunk.css.map",
     "static/js/2.bec3d3a8.chunk.js.LICENSE.txt": "/static/js/2.bec3d3a8.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/FontsFree-Net-AvenirLTStd-Book.5dc0aa8d.woff",
     "static/media/App.css": "/static/media/our-manifesto.5c034613.png",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.8fbef9e5.js",
     "static/css/2.ff7e2e96.chunk.css",
     "static/js/2.bec3d3a8.chunk.js",
-    "static/css/main.1169ccf5.chunk.css",
-    "static/js/main.c7513381.chunk.js"
+    "static/css/main.a7179811.chunk.css",
+    "static/js/main.fb29512e.chunk.js"
   ]
 }
